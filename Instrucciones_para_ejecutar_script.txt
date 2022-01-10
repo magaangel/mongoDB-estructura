@@ -1,0 +1,6 @@
+Instrucciones para ejecutar el archivo .js de la base de datos
+
+1. Abrir consola (tecla window + r -> cmd)
+2. Establecer ruta del bin de mongo con el comando -> set path=%path%;C:\Program Files\MongoDB\Server\5.0\bin
+3. Escribir la ruta del directorio contenedor del archivo .js de la base de datos, seguido del comando -> mongo NombreArchivo.js -> Ejemplo: C:\Users\MiUsuario\Documents\IT_Academy>mongo optica_ejemplo.js
+
